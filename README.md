@@ -8,3 +8,7 @@ Na pasta do projeto instale o express através dos comandos
 <br>
 $ npm install express --save
 <br><br><br>
+
+Para iniciar o servidor inicie com
+<br>
+$ node routs.js 
